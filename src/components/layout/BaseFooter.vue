@@ -11,12 +11,12 @@
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" target="_blank" href="http://bootcatch.com">
                         About Us
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="http://blog.bootcatch.com">
                         Blog
                     </a>
                 </li>

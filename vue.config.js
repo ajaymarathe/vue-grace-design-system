@@ -1,6 +1,6 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/slateblue-ui/'
+    ? '/vue-grace-design-system/'
     : '/',
     // chainWebpack: config => {
     //     config.plugin('optimize-css').tap(([options]) => {
